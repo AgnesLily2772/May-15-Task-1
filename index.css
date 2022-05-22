@@ -1,0 +1,16 @@
+ul{
+    list-style: none;
+}
+li{
+    border: 2px solid brown;
+    margin: 20px;
+    padding: 20px;
+    background-color:rgb(158, 182, 227);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-style: italic;
+}
+h2{
+    text-align: center;
+}
